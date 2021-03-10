@@ -1,0 +1,2529 @@
+[
+  {
+    "id": 1,
+    "question": "1. What gender are tortoiseshell cats?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Approximately only one in 3000 tortoiseshell cats is male. This is because the orange colour featured in their coats is passed on through the female chromosome X. With XX chromosomes one is inactivated in every cell which results in the orange and another colour being present. In male cats with chromosome XY there is no inactivation which results in the fur being either entirely orange or having no orange pigment at all. Occasionally there is a male with XXY chromosomes which is tortoiseshell but these are mostly sterile.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "Exclusively male",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "Almost always male",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "Almost always female",
+        "isCorrect": true
+      },
+      {
+        "id": 4,
+        "answer": "Exclusively female",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "2. From which modern day country did Persian cats originate?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The first documented evidence of Persian cats is around 1620 when some were imported to Italy from Iran (then called Persia). The cats are distinctive for their long silky fur and their round faces and short muzzle. In the English speaking middle east they are known as Iranian cats, whilst in Iran they are Known as Shirazi cats. They are extremely popular for their beautiful long fur which may be pure white, golden or grey.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 5,
+        "answer": "Saudi Arabia",
+        "isCorrect": false
+      },
+      {
+        "id": 6,
+        "answer": "Iraq",
+        "isCorrect": false
+      },
+      {
+        "id": 7,
+        "answer": "Iran",
+        "isCorrect": true
+      },
+      {
+        "id": 8,
+        "answer": "Yemen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "3. The Norwegian forest cat has very long hair.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The Norwegian forest cat is one of the fluffiest and furriest breeds you will ever see. This is because they are adapted to a very cold climate with an outer coat of long fur and an under layer of short hair for insulation. It is thought that they were introduced into Norway by the Vikings in around 1000AD. This breed became nearly extinct during World War II, but in 1970 the Norwegian Forest Cat Club started an official breeding programme. They are now a very popular pet in Norway, Sweden, France and Iceland.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 9,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 10,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "4. Cats are mainly fish eaters.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Cats need to eat meat to stay fit and healthy. It is also vital that they have a constant supply of fresh water, as cats can become very ill if they do not have enough water to drink. If you provide a litter tray for your pet the food and water bowls need to be well away from it. Some cats will not eat or drink if the food is too near to the litter tray. Cats normally know how much to eat to stay healthy, but if they overeat they become fat, and if they under eat they become thin, so the amount of food must be tailored to the individual needs of the cat. If problems are encountered with feeding a cat a vet will be able to give advice.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 11,
+        "answer": "True",
+        "isCorrect": false
+      },
+      {
+        "id": 12,
+        "answer": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "5. If you would like a domestic cat which has an appearance and markings similar to wild cats such as leopards, ocelots and clouded leopards which would be a good breed to choose?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Bengal cats were developed by selective breeding from hybrids of the Asian leopard cat with the domestic cat, backcrossed to domestic cats, to create a confident, healthy, and friendly cat with a coat similar to an exotic wild cat. Once separated by four generations from the original Asian leopard cat they become gentle friendly cats suitable to keep as household pets. Their fur is usually bright orange to light brown and they may exhibit stripes, spots or rosettes, with a light coloured belly. Their physique is similar to an Asian leopard cat. One of the advantages of such a cat is that they shed very little hair, although it is still advisable to groom them once a week to keep their coats healthy.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 13,
+        "answer": "Bombay cat",
+        "isCorrect": false
+      },
+      {
+        "id": 14,
+        "answer": "Bengal cat",
+        "isCorrect": true
+      },
+      {
+        "id": 15,
+        "answer": "Burmese cat",
+        "isCorrect": false
+      },
+      {
+        "id": 16,
+        "answer": "Abyssinian cat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "6. Which breed of cat did Amy Carter, daughter of President Carter, keep as a pet?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Misty Malarky Ying Yang! was Amy Carter\u0027s beloved pet. Because it had such an unusual name Gabor Szabo composed a song about it and featured it on his album \u0027Faces\u0027. Misty has been described as a typical Siamese active, playful and intelligent. Often as Amy practised playing her violin, Misty would join in with her meowing along. When during a visit by Carter grandson James Earl Carter IV, James would join them, he would clap and Misty would meow. It must have been terrible cacophony, and it was a wonder that Amy managed to practise her violin playing at all. Misty was devoted to Amy, loved to play with her and be petted and cuddled. He slept in a doll\u0027s house in her room. Yes, that\u0027s right he did for despite the feminine name he was a male.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 17,
+        "answer": "European short haired",
+        "isCorrect": false
+      },
+      {
+        "id": 18,
+        "answer": "Burmese",
+        "isCorrect": false
+      },
+      {
+        "id": 19,
+        "answer": "Siamese",
+        "isCorrect": true
+      },
+      {
+        "id": 20,
+        "answer": "Persian",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "7. Cats can detect higher frequencies of sound than dogs.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "They can also hear better than us and see better than humans in a dim light or darkness. This helps them with hunting because they can hear the high pitched frequencies of sound made by small rodents Their whiskers are highly sensitive to vibrations, helping them to detect prey. In the wild cats can spend six to eight hours a day hunting, and domestic cats also hunt which shows that they do it for pleasure as well as for the food.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 21,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 22,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "8. On which Island will you find many cats that have no tails?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "It is a genetic mutation which has caused many Manx cats to have no tail, although there is a legend that it was late running to Noah\u0027s ark and Noah slammed the door and severed its tail. However Manx cats can be born with a full tail, a stub or no tail at all. They have both the gene for a tail and the one for no tail so a Manx cat can give birth to a kitten with a full length tail. However, if the kitten inherits the tailless gene from both parents it will normally die before birth. Manx cats come in many different colours and are characterised by their long muscular back legs. Koko the Gorilla who can sign over one thousand words of American sign language, was allowed to chose a kitten from a litter for her 12th birthday. She chose a small grey and white Manx cat which she named All Ball. Koko cuddled and played with All Ball regularly and was devastated when the kitten was killed in a road accident a few months later.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 23,
+        "answer": "Isle of Wight",
+        "isCorrect": false
+      },
+      {
+        "id": 24,
+        "answer": "Isle of Man",
+        "isCorrect": true
+      },
+      {
+        "id": 25,
+        "answer": "Jersey",
+        "isCorrect": false
+      },
+      {
+        "id": 26,
+        "answer": "Anglesey",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "9. When President Lincoln first moved into the White House he was given a gift of two kittens. What were their names?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "When Abraham Lincoln left Springfield, Illinois and moved to the White House he felt that it would not be a suitable environment for his beloved dog Fido. He left Fido with his barber and the dog was reportedly well cared for, and was seen snoozing in the barbershop for many years after he was parted from Lincoln. Five months after taking office, and just as the Civil War began, the Secretary of State, William Seward, gave the President the gift of two kittens which he named Tabby and Dixie. He became extremely fond of the two cats. During the civil war Lincoln was heard to remark \"Dixie is smarter than my whole cabinet! and further more she doesn\u0027t talk back\". During a formal dinner, Mrs. Lincoln was embarrassed to see her husband feeding Tabby with a gold fork. When she remonstrated with him he said that \"If the gold fork was good enough for ex President James Buchanan it was good enough for Tabby\".",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 27,
+        "answer": "Molly and Jack",
+        "isCorrect": false
+      },
+      {
+        "id": 28,
+        "answer": "Jo and Cookie",
+        "isCorrect": false
+      },
+      {
+        "id": 29,
+        "answer": "Ginger and Pip",
+        "isCorrect": false
+      },
+      {
+        "id": 30,
+        "answer": "Tabby and Dixie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "10. Which of the following is the name of a breed of cat?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The ragdoll cat is an American breed. They are large muscular cats but well known for their extreme docility, and were given the name ragdoll because of their tendency to go limp when they are picked up. Some British breeders have been working towards making the cats less docile, as it is thought that it may not be in the best interest of the cats to be as meek as they are. Ragdoll cats have blue eyes and semi long hair which is very soft and silky. They get their full colour by the time they are approximately two years old, but their base colour is known by the time they are around 8 weeks old. They are usually born pure white and gain their points as they grow older. There are no standard colours, but they come in a wide range of pointed colours.",
+    "itemId": 21,
+    "answers": [
+      {
+        "id": 31,
+        "answer": "Teddy bear",
+        "isCorrect": false
+      },
+      {
+        "id": 32,
+        "answer": "Ragdoll",
+        "isCorrect": true
+      },
+      {
+        "id": 33,
+        "answer": "Barbie",
+        "isCorrect": false
+      },
+      {
+        "id": 34,
+        "answer": "Domino",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "1. Leash-training cats is difficult mainly because it isn\u0027t instinctive for a cat to follow anyone around.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Although cats are not pack animals, some will pick up on leash-training instantly because, when they were kittens, their mothers would let them tag along on hunting expeditions. The mother cat would make sure her kittens stayed close by while she taught them to hunt. Your cat probably views you as a parent, so her stubbornness is really the biggest obstacle. I\u0027m not saying leash-training is easy, because most cats are very stubborn!",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 35,
+        "answer": "True",
+        "isCorrect": false
+      },
+      {
+        "id": 36,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "2. Since your cat\u0027s regular collar is so familiar, it is the most suitable piece of equipment to attach the leash to while you walk him.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "A cat can squirm out of a collar in an instant, and one will put a lot of pressure on your kitty\u0027s neck. Collars are definitely not safe. Use a comfortable nylon harness, made specially for cats. I would recommend a Walking Jacket -- a very safe jacket-type harness that fits around the cat\u0027s neck, shoulders, and chest. You will have to introduce the harness to the cat slowly, along with the leash. Cats do not accept harnesses right away.",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 37,
+        "answer": "True",
+        "isCorrect": false
+      },
+      {
+        "id": 38,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "3. The first step is to get the cat used to her leash. Leave it on the ground for her to investigate. While she sniffs and paws at the leash, what should you do?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "This may not seem particularly important, but you want your cat to realize the leash is harmless and familiar. You don\u0027t praise the cat for playing with her toys; play is her own reward. Why should the leash be any different? Besides, you don\u0027t want her to play with the leash while you walk her. However, it is very important that you do NOT reprimand the cat for playing with the leash. That will just make her associate negative experiences with it. Leave her alone until she accepts the leash as ordinary.",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 39,
+        "answer": "Praise the cat for showing interest in the leash",
+        "isCorrect": false
+      },
+      {
+        "id": 40,
+        "answer": "Ignore the cat",
+        "isCorrect": true
+      },
+      {
+        "id": 41,
+        "answer": "Reprimand the cat for playing with and biting the leash",
+        "isCorrect": false
+      },
+      {
+        "id": 42,
+        "answer": "Soothe and calm the cat when she plays with the leash",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "4. Now it\u0027s time to start putting the leash on the cat for short periods of time. Let him drag it along behind him. Wait until he stops resisting the leash. When he is comfortable wearing it, you should keep putting it on for short periods of time, but what else should you do while he wears the leash?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "You want your cat to associate the leash with going outside early on, especially if he\u0027s never been outside before. Being on a leash will be a new experience and cats are creatures of habit, so each step you take is important. Put the leash on the cat and take him to a safe outdoor area. Hold him securely to make sure he will not panic, and let him check things out. Don\u0027t try to put him on the ground just yet; if he is startled he might bolt and get tangled in the leash. Pet him and talk to him when he is calm.",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 43,
+        "answer": "Praise him, feed him treats, and pet him",
+        "isCorrect": false
+      },
+      {
+        "id": 44,
+        "answer": "Keep him standing by your left side the entire time",
+        "isCorrect": false
+      },
+      {
+        "id": 45,
+        "answer": "Hold the end of the leash and jerk on it if he pulls",
+        "isCorrect": false
+      },
+      {
+        "id": 46,
+        "answer": "Take him outside and hold him",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "5. Once your cat is perfectly comfortable on the leash, it\u0027s time to start teaching her how to go for walks! Since she\u0027ll go for walks with you outdoors, should you have all of her first lessons outside, too?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "There are too many distractions outside, even if your cat is used to being outdoors, even if she is safe in a fenced backyard, and even if she won\u0027t take off and get tangled in the leash. Your kitty should be focused. Okay, cats don\u0027t really focus, as they have five-minute attention spans! Still, you should keep distractions to a minimum. Practice indoors. You should still take your cat outside and hold her with the leash on from time to time.",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 47,
+        "answer": "Yes",
+        "isCorrect": false
+      },
+      {
+        "id": 48,
+        "answer": "No",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "6. It\u0027s time for your cat\u0027s first lesson! Hold the end of the leash and let your cat lead you around. After a few days of practicing this, you need to show your cat that he should follow you. Walk in the opposite direction of your cat. When he reaches the end of the leash behind you, what should you do?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Just a quick pull and release is all you need. Don\u0027t haul the cat forward or drag him behind you -- going for walks should be fun for your kitty, and you might injure him. Offering a treat for walking in the wrong direction will only encourage it. Most importantly, BE PATIENT. Remember that cats are very intelligent, but also very stubborn. When your cat finally moves in your direction, praise him!",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 49,
+        "answer": "Give the leash a quick, gentle pop",
+        "isCorrect": true
+      },
+      {
+        "id": 50,
+        "answer": "Spray the cat with a water pistol",
+        "isCorrect": false
+      },
+      {
+        "id": 51,
+        "answer": "Lure the cat back to your side with a treat",
+        "isCorrect": false
+      },
+      {
+        "id": 52,
+        "answer": "Ignore the cat and keep walking",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "7. Your cat is starting to get the idea. She goes the same direction you do -- but she pulls on the leash. This is not acceptable. When your cat starts to pull, what should you do?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Your cat might get overexcited and charge ahead, or else start running in circles or attacking the leash! Whenever you feel tension in the leash, stop in your tracks. Teach the cat that if she pulls, she\u0027s not going anywhere; if she wants to move on, she\u0027s going to do it on a loose lead! When she stops pulling and looks back to see why you\u0027re not coming, start walking her and praise, praise, praise. Remember, don\u0027t encourage your cat by trying to calm her down when she pulls. And don\u0027t lose your patience; you\u0027ll have to work long and hard before you can start taking your cat for walks outside. When she behaves perfectly in the house, you can try it in a safe, familiar outdoor area.",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 53,
+        "answer": "Jerk the cat back into position with the leash",
+        "isCorrect": false
+      },
+      {
+        "id": 54,
+        "answer": "Stop walking and stand in place until the leash is loose",
+        "isCorrect": true
+      },
+      {
+        "id": 55,
+        "answer": "Lure the cat to your side with a treat",
+        "isCorrect": false
+      },
+      {
+        "id": 56,
+        "answer": "Spray the cat with a water pistol",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "8. It\u0027s that time you\u0027ve been waiting for! Your cat has finally gotten the hang of walking on a leash. He follows you and doesn\u0027t pull. He behaves well indoors and outdoors. You can take him for his first real walk! All goes well until you are confronted by an unleashed dog, which acts aggressively toward your cat. True or false: you should stand absolutely still and say nothing, in order to make the dog lose interest.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Just because you are standing still does not mean that the cat will calm down. He will just panic more, attracting the dog\u0027s attention. Standing still will show the dog that you are unthreatening and the cat will be easy prey. If your cat is wearing a harness that fits snugly, he should not be able to get loose. First, you should try to back off as slowly and calmly as possible. If the cat continues to panic and the dog moves too close, spray the dog with water. Keep a water gun handy. If the dog does attack your cat, the safest thing to do is to release your cat. At least now he has the chance to run from the dog, and if you hold on to your cat chances are good that one or both of you will be bitten. Do not pick up your cat. The cat will only struggle and scratch. Let your cat run away and get help as soon as possible. Finally, as a last resort only -- meaning the dog is biting your cat and there is no one to help you -- grab the dog\u0027s back legs and lift them off the ground. He will not be able to run forward or bite you. That doesn\u0027t sound too tempting, does it?\nIf you meet a strange dog that only wants to make friends, but terrifies your cat, do as I mentioned above and just walk away. If you show you are uneasy, your cat will pick up on that. Once your kitty calms down, the dog will get bored and walk away. If your cat is frightened of leashed dogs, only walk her in private, fenced areas where it\u0027s guaranteed you won\u0027t meet any. Going for walks should be fun, right? Just to be on the safe side, never walk your cat in an area where dogs are allowed off-leash, or you are likely to meet a stray animal.\nDon\u0027t let what I\u0027ve said here discourage you. The chances that your cat will actually be attacked by a dog are very low. If your cat was well socialized as a kitten, he will most likely enjoy getting to see dogs!",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 57,
+        "answer": "True",
+        "isCorrect": false
+      },
+      {
+        "id": 58,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "9. Although your cat shouldn\u0027t pull on the leash, you can\u0027t expect him to walk by your side.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Most cats don\u0027t walk on leashes like dogs. They like to run a little, then stop and sniff. They like to explore every little patch of ground if they\u0027re in an unfamiliar area. It isn\u0027t really important that your cat walks by your side, as long as he doesn\u0027t pull or try to run off when he sees a dog or a squirrel.",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 59,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 60,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "10. Cats of all ages can be taught to go for walks, but what is the most recommended age that you begin walking your cat on a leash?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "You can start, and probably should, introduce the harness sooner, but leave the outside walks until the kitten has grown. At six months, the cat is old enough to endure a long walk but young and impressionable enough to learn especially quickly. She is healthy and fully vaccinated, and if she was well socialized as a very young kitten she can easily be taught to ignore dogs.",
+    "itemId": 22,
+    "answers": [
+      {
+        "id": 61,
+        "answer": "8 weeks",
+        "isCorrect": false
+      },
+      {
+        "id": 62,
+        "answer": "6 months",
+        "isCorrect": true
+      },
+      {
+        "id": 63,
+        "answer": "1 year",
+        "isCorrect": false
+      },
+      {
+        "id": 64,
+        "answer": "18 months",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "1. What type of cat is extremely rarely male?",
+    "isMultipleChoiceQuestion": true,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 65,
+        "answer": "Russian Blue",
+        "isCorrect": false
+      },
+      {
+        "id": 66,
+        "answer": "Angora",
+        "isCorrect": false
+      },
+      {
+        "id": 67,
+        "answer": "Sphynx",
+        "isCorrect": false
+      },
+      {
+        "id": 68,
+        "answer": "Calico",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "2. Which cat has curly fur and curly whiskers?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "It doesn\u0027t shed!",
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 69,
+        "answer": "Persian",
+        "isCorrect": false
+      },
+      {
+        "id": 70,
+        "answer": "British Shorthair",
+        "isCorrect": false
+      },
+      {
+        "id": 71,
+        "answer": "Selkirk Rex",
+        "isCorrect": true
+      },
+      {
+        "id": 72,
+        "answer": "Russian Blue",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "3. What is the unusual feature of the Scottish Fold which gives it its name?",
+    "isMultipleChoiceQuestion": true,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 73,
+        "answer": "Folded Tongue",
+        "isCorrect": false
+      },
+      {
+        "id": 74,
+        "answer": "Folded Ears",
+        "isCorrect": true
+      },
+      {
+        "id": 75,
+        "answer": "Curled Tail",
+        "isCorrect": false
+      },
+      {
+        "id": 76,
+        "answer": "Paws that are almost always folded underneath itself",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "4. What type of cat has no, or little, tail?",
+    "isMultipleChoiceQuestion": true,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 77,
+        "answer": "Ragdoll",
+        "isCorrect": false
+      },
+      {
+        "id": 78,
+        "answer": "Maine Coon",
+        "isCorrect": false
+      },
+      {
+        "id": 79,
+        "answer": "Ragmuffin",
+        "isCorrect": false
+      },
+      {
+        "id": 80,
+        "answer": "Manx",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "5. Is the Chartreux cat\u0027s coat water-repellent?",
+    "isMultipleChoiceQuestion": true,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 81,
+        "answer": "Yes",
+        "isCorrect": false
+      },
+      {
+        "id": 82,
+        "answer": "No",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "6. Did the American Shorthair really originate in America?",
+    "isMultipleChoiceQuestion": true,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 83,
+        "answer": "Yes",
+        "isCorrect": false
+      },
+      {
+        "id": 84,
+        "answer": "No",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "7. Is the Maine Coon a small cat?",
+    "isMultipleChoiceQuestion": true,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 85,
+        "answer": "Yes",
+        "isCorrect": false
+      },
+      {
+        "id": 86,
+        "answer": "No",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "8. What is the Japanese bobtail, particularly the me-ki, a symbol of?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The me-ki is a tri-color of red, black and white.",
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 87,
+        "answer": "Good fortune",
+        "isCorrect": true
+      },
+      {
+        "id": 88,
+        "answer": "Forthcoming death",
+        "isCorrect": false
+      },
+      {
+        "id": 89,
+        "answer": "Bad fortune",
+        "isCorrect": false
+      },
+      {
+        "id": 90,
+        "answer": "Continuous good health",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "9. What type of cat has a \u0027smashed in\u0027 face?",
+    "isMultipleChoiceQuestion": false,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 93,
+        "answer": "Persian",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "10. Does the Norwegian Forest cat like the cold and snow?",
+    "isMultipleChoiceQuestion": true,
+    "itemId": 23,
+    "answers": [
+      {
+        "id": 91,
+        "answer": "Yes",
+        "isCorrect": false
+      },
+      {
+        "id": 92,
+        "answer": "No",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "1. Will you be allowed to watch the judging at a normal GCCF show?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "When judging is about to start at 10 am, the hall is cleared of exhibitors and only judges, their stewards and other officials are allowed in the hall until all Ope classes have been finished a roughly 1 pm. The judges will move from pen to pen and judge the cats on a trolley on wheels. At some venues, such as some sports centres, you may be able to watch the judging from a distance, such as from a balcony, but not close up. The exception is the Supreme show where judging takes place in rings and everyone can watch and listen.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 94,
+        "answer": "No, the exhibitors must leave the hall for judging to take place",
+        "isCorrect": true
+      },
+      {
+        "id": 95,
+        "answer": "Only if you are not an exhibitor",
+        "isCorrect": false
+      },
+      {
+        "id": 96,
+        "answer": "Only if you are an exhibitor",
+        "isCorrect": false
+      },
+      {
+        "id": 97,
+        "answer": "Yes, you can watch the judging at all GCCF shows",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "2. What cats can win Certificates that count towards titles such as Champion and Premier?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "According to GCCF rules, a cat becomes adult on the day it turns 9 months old, and only adult cats and neuters can be awarded certificates that count towards titles -such as Challenge Certificates and Premier Certificates for the titles of Champion and Premier. Kittens (14 weeks to 9 months) and non pedigree cats can not gain titles.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 98,
+        "answer": "Adult, neutered and kitten pedigree cats",
+        "isCorrect": false
+      },
+      {
+        "id": 99,
+        "answer": "Adult and neutered pedigree cats",
+        "isCorrect": true
+      },
+      {
+        "id": 100,
+        "answer": "Adult and neutered pedigree and non pedigree cats",
+        "isCorrect": false
+      },
+      {
+        "id": 101,
+        "answer": "Adult pedigree cats only",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "3. What do the initials CC stand for?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "CCs are the certificates adult cats can collect to gain the title of Champion. 3 CCs must be gained and all must have been awarded by different judges. It\u0027s often thought that CC stands for Champion Certificate, but if you take a look at a CC when next at a show you will see the wording Challenge Certificate printed on the Gold cards.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 102,
+        "answer": "Challenge Certificate",
+        "isCorrect": true
+      },
+      {
+        "id": 103,
+        "answer": "Cat Certificate",
+        "isCorrect": false
+      },
+      {
+        "id": 104,
+        "answer": "Champion Certificate",
+        "isCorrect": false
+      },
+      {
+        "id": 105,
+        "answer": "Championship Certificate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "4. How must your cat\u0027s show pen be furnished when judging is about to take place?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "All show pens must be furnished in white only to keep the cats\u0027 and owners\u0027 identity anonymous to the judges. Food bowls must not be present during judging but can be given to the cat after judging has been completed in the afternoon.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 106,
+        "answer": "Blanket, litter tray, water and food bowls, all in white",
+        "isCorrect": false
+      },
+      {
+        "id": 107,
+        "answer": "Blanket, litter tray and water bowl, all in white",
+        "isCorrect": true
+      },
+      {
+        "id": 108,
+        "answer": "White blanket and litter tray, any colour water bowl",
+        "isCorrect": false
+      },
+      {
+        "id": 109,
+        "answer": "White blanket and litter tray, any colour food and water bowls",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "5. Can you show moggies (non-pedigree cats) at GCCF shows?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Almost all GCCF shows have a Household Pet section where any cat can take part provided that it has at least one unknown or unregistered parent. You cannot for instance show a crossbred cat as an HP that has two parents of different breeds if both are registered. Rescued cats of obvious pedigree breeds can be shown as HPs if their ancestry is unknown, but the great majority of HPs are your average moggy. Adult HPs must be neutered.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 110,
+        "answer": "Yes, but only if both parents are unknown and/or unregistered",
+        "isCorrect": false
+      },
+      {
+        "id": 111,
+        "answer": "Yes, if it has been registered on the Household Pet register",
+        "isCorrect": false
+      },
+      {
+        "id": 112,
+        "answer": "Yes, at most shows, if it is from at least one unregistered and/or unknown parent",
+        "isCorrect": true
+      },
+      {
+        "id": 113,
+        "answer": "No, only pedigree cats are allowed",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "6. What is the first thing you have to do upon arrival at a GCCF show?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The process of \"vetting in\" can be one of the most nerve wrecking moments of the day, as each cat is checked carefully by a vet upon arrival at a show. There must be no fleas or flea dirt in the coat, no excessive ear wax, no scratches on the skin no matter how small, and no sign of any disease/illness. Your cat will also have its vaccination certificate checked to see that it is up to date. All of this is to stop the spreading of disease at shows. Any cat not in perfect condition will be rejected and may not enter the show hall.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 114,
+        "answer": "Pen your cat, then bring the vaccination certificate to the show manager for inspection",
+        "isCorrect": false
+      },
+      {
+        "id": 115,
+        "answer": "Pen your cat and wait for the vet to come to check it and the vaccination certificate",
+        "isCorrect": false
+      },
+      {
+        "id": 116,
+        "answer": "Present your cat to the vet and have its microchip checked",
+        "isCorrect": false
+      },
+      {
+        "id": 117,
+        "answer": "Present your cat and its vaccination certificate to the vet for a check",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "7. What is the highest title a cat can earn from your average, normal, GCCF shows?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The first title a cat can gain at normal GCCF Championship shows is that of Champion (for adult, entire cats) or Premier (for neutered cats), the second title is the Grand (Champion or Premier), the third title the Imperial Grand (Champion or Premier). The Supreme and UK Grand titles are only awarded at the Supreme show.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 118,
+        "answer": "Supreme Grand (Champion or Premier)",
+        "isCorrect": false
+      },
+      {
+        "id": 119,
+        "answer": "Imperial Grand (Champion or Premier)",
+        "isCorrect": true
+      },
+      {
+        "id": 120,
+        "answer": "UK Grand (Champion or Premier)",
+        "isCorrect": false
+      },
+      {
+        "id": 121,
+        "answer": "National Grand (Champion or Premier)",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "8. Which of the following is NOT true of the Supreme show?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The Supreme is often described as the Crufts of the cat fancy; the one show of the year which the GCCF are the organisers of rather than affiliated cat clubs. Each cat, including Household Pets, must qualify for entry -HPs and kittens by winning a first in an Open class at a Championship show, adults and neuters by winning a certificate. The main winners will be given the titles of Supreme Grand Champion and Supreme Grand Premier, and it is the only show where UK Grand certificates can be won -two of which gives the cat the title of UK Grand.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 122,
+        "answer": "It offers special titles not available at other shows",
+        "isCorrect": false
+      },
+      {
+        "id": 123,
+        "answer": "It is the only show the GCCF itself organises",
+        "isCorrect": false
+      },
+      {
+        "id": 124,
+        "answer": "Only pedigree cats can be entered",
+        "isCorrect": true
+      },
+      {
+        "id": 125,
+        "answer": "It is the only show where each cat has to qualify for entry by winning at championship shows",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "9. What are the 3 main types of GCCF show?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Exemption shows are exempt from certain GCCF rules. These are small affairs with fewer classes than other shows, and there will not necessarily be a class for each breed/colour and sexes are often not split. Sanction shows are \"dress rehearsals\" for Championship shows with all the same classes etc, but no certificates on offer. Championship shows are the most common show, and these have breed classes for each fully recognised breed as well as other classes for breeds not yet of Champonship status, split into sexes and often colour, with certificates (such as CCs and PCs etc) available.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 126,
+        "answer": "Members, Open and Championship",
+        "isCorrect": false
+      },
+      {
+        "id": 127,
+        "answer": "Open, Limit and Championship",
+        "isCorrect": false
+      },
+      {
+        "id": 128,
+        "answer": "Exemption, Sanction and Championship",
+        "isCorrect": true
+      },
+      {
+        "id": 129,
+        "answer": "Pedigree, Non-pedigree and the Supreme",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "10. How often can you show your cats at GCCF shows?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The \"13 day rule\" states that nobody may show any cat they own more frequently than every 13 days, regardless of whether it is the same cat or not. This is to minimise the spreading of disease and also ensures that cats do not get shown too frequently but gets a good rest in between each show. Because of this, the GCCF never have 2 day shows which are common in other organisations and abroad.",
+    "itemId": 24,
+    "answers": [
+      {
+        "id": 130,
+        "answer": "Once a fortnight",
+        "isCorrect": false
+      },
+      {
+        "id": 131,
+        "answer": "Every 13 days",
+        "isCorrect": true
+      },
+      {
+        "id": 132,
+        "answer": "Each cat can be only shown every 13 days but you can show a different cat the week in between",
+        "isCorrect": false
+      },
+      {
+        "id": 133,
+        "answer": "As often as there are shows",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "1. What is a Skogkatt?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The Norwegian forest cat is a natural breed and originates from Norway. Although the origins are unknown, according to Norwegian folklore they were family pets of the Vikings. Unlike most cats they like water, and catch fish in lakes and streams.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 134,
+        "answer": "Finnish lake cat",
+        "isCorrect": false
+      },
+      {
+        "id": 135,
+        "answer": "Swedish forest cat",
+        "isCorrect": false
+      },
+      {
+        "id": 136,
+        "answer": "Norwegian forest cat",
+        "isCorrect": true
+      },
+      {
+        "id": 137,
+        "answer": "Finnish forest cat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "2. Where does the snow leopard live?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The snow leopard lives in Central and South Asia, mainly in mountainous areas. It is highly endangered with estimates of only 4000 to 7000 animals still living in the wild. Snow leopards are solitary and like most cats, strictly carnivorous.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 138,
+        "answer": "Alps",
+        "isCorrect": false
+      },
+      {
+        "id": 139,
+        "answer": "Andes Mountains",
+        "isCorrect": false
+      },
+      {
+        "id": 140,
+        "answer": "Himalayan Mountains",
+        "isCorrect": true
+      },
+      {
+        "id": 141,
+        "answer": "Rocky Mountains",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "3. What is the Amur tiger better known as?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The Amur or Siberian tiger is the largest cat in the world. A male Siberian tiger have a body length of up to 230 cm and can weigh up to 300 kg. This makes them the largest of all cats living today. Females are considerably smaller, with a body length of up to 180 cm and a weight of 167 kg.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 142,
+        "answer": "South Chinese tiger",
+        "isCorrect": false
+      },
+      {
+        "id": 143,
+        "answer": "Siberian tiger",
+        "isCorrect": true
+      },
+      {
+        "id": 144,
+        "answer": "Sumatran Tiger",
+        "isCorrect": false
+      },
+      {
+        "id": 145,
+        "answer": "Bengal Tiger",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "4. Which of these cats is widely distributed throughout the cold parts of the Northern hemisphere?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The lynx is a medium-sized cat endemic to Northern Europe, Asia and Canada. Body color ranges from brown to golden to white-beige. Their most outstanding feature is the black hair tuffs at the tips of their ears. They are solitary animals, only joining one another for breeding. Their main diet is hares and rabbits, but deer are also regularly caught.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 146,
+        "answer": "Caracal",
+        "isCorrect": false
+      },
+      {
+        "id": 147,
+        "answer": "Ocelot",
+        "isCorrect": false
+      },
+      {
+        "id": 148,
+        "answer": "Fishing cat",
+        "isCorrect": false
+      },
+      {
+        "id": 149,
+        "answer": "Lynx",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "5. Which of these is a cool cat that likes to live in a cold climate?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The Maine coon cat is the largest domestic cat breed. Also known as the American wild cat it mainly lived on farms, where the farmers appreciated its ability to catch vermin. As a cold climate animal, it has a long shaggy coat that starts short over the head and becomes longer over the back, stomach and legs. Although this makes the cat very pretty, this warm coat developed out of necessity for survival in very cold weather.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 150,
+        "answer": "Iowa boon cat",
+        "isCorrect": false
+      },
+      {
+        "id": 151,
+        "answer": "Maine coon cat",
+        "isCorrect": true
+      },
+      {
+        "id": 152,
+        "answer": "Idaho loon cat",
+        "isCorrect": false
+      },
+      {
+        "id": 153,
+        "answer": "Alaska koon cat",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "6. The caracal is a cold climate cat.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The caracal is sometimes called the African lynx or desert lynx as a result of its tufted ears. Its name comes from the Turkish word \"karakulak\" which means \"black ear\". It was once trained in Iran and India for bird hunting. A trained caracal could down a large number of birds in one sweep of its paw. It is endemic to Northern Africa, the Arabian peninsula, and southwestern Asia.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 154,
+        "answer": "True",
+        "isCorrect": false
+      },
+      {
+        "id": 155,
+        "answer": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "7. Which of these cats lives in the Rocky Mountains?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "This large feline is the largest wild cat in North America and the second largest in the Americas after the jaguar. It is a night hunter that mainly preys on deer, although smaller prey like coyotes and raccoons are also on the menu.\n\nAlthough on occasion humans have been attacked this is very rare. According to statistics there are on average only four attacks and one human fatality each year in all of the USA and Canada.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 156,
+        "answer": "Mountain lion",
+        "isCorrect": true
+      },
+      {
+        "id": 157,
+        "answer": "African lion",
+        "isCorrect": false
+      },
+      {
+        "id": 158,
+        "answer": "Cape lion",
+        "isCorrect": false
+      },
+      {
+        "id": 159,
+        "answer": "Indian lion",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "8. Which of these cats is the national Russian cat?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The Siberian is a medium to large domestic cat. Its long outer fur is waterproof with a very dense undercoat. This makes it very well adapted to the icy Siberian winters.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 160,
+        "answer": "Russian cat",
+        "isCorrect": false
+      },
+      {
+        "id": 161,
+        "answer": "Arctic cat",
+        "isCorrect": false
+      },
+      {
+        "id": 162,
+        "answer": "Mongolian cat",
+        "isCorrect": false
+      },
+      {
+        "id": 163,
+        "answer": "Siberian cat",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "9. The mountain lion and the cougar are two names for the same animal.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "It is also known as the puma or catamount.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 164,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 165,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "10. The saber tooth tiger is almost extinct apart from a few animals left high up in the Arctic.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The saber tooth tiger became extinct around 10,000 years ago. The reason for this extinction is not clear. Speculation roams from humans to the changing climate with the end of the last ice age.",
+    "itemId": 25,
+    "answers": [
+      {
+        "id": 166,
+        "answer": "True",
+        "isCorrect": false
+      },
+      {
+        "id": 167,
+        "answer": "False",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "1. There were more pet cats than pet dogs in the USA during 2018.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "In 2018, cats had a higher population than dogs in America. There were about 94 million cats, which was more than dogs whose population was about 90 million. Cats usually live about 14-16 years, although there are records of cats living to about 28 years.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 168,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 169,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "2. In the same way humans can be left or right handed, cats can also be right-pawed or left-pawed.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Researchers at the Animal Behavior Center at Queen\u0027s University in Belfast analyzed data collected by the owners of 44 cats of mixed breeds involving 20 females and 24 males. The cats were observed by the owners to see whether the cats favored the left or right paw when carrying out tasks such as walking up and down stairs, or reaching for food. They carried out each experiment 50 times to get a clearer view.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 170,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 171,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "3. Adult cats meaow to communicate with each other cats.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Adult cats don\u0027t communicate with other cats by meowing. They usually meaow in a human presence. They communicate through purring, hissing or shrieking. Kittens meow to let their mother know that they are hungry. But as they grow old, they stop meaowing at each other. They also use body language and facial expressions to communicate.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 172,
+        "answer": "True",
+        "isCorrect": false
+      },
+      {
+        "id": 173,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "4. Which of the following foods is harmful for cats?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "It is widely known that chocolate is harmful for dogs, but it is also harmful for cats. It could increase the risk of heart disease and high blood pressure in cats. And, if ingested in large amounts, it could lead to death.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 174,
+        "answer": "Chocolate",
+        "isCorrect": true
+      },
+      {
+        "id": 175,
+        "answer": "Cheese",
+        "isCorrect": false
+      },
+      {
+        "id": 176,
+        "answer": "Cooked eggs",
+        "isCorrect": false
+      },
+      {
+        "id": 177,
+        "answer": "Oatmeal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "5. Cats can hear ultrasonic sound waves.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Cats have excellent hearing capability and have the ability to hear ultrasonic sound waves. Ultrasonic sound waves are those which have frequencies higher than 20,000 Hz. A normal cat can hear sound of frequency of up to 64,000 Hz.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 178,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 179,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "6. Almost all kittens are born with eyes of which colour?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Almost all kittens are born with blue eyes. But they usually don\u0027t open their eyes for a few days after birth so that their eyes can develop under their eyelids. They usually get their actual eye colour after eight weeks.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 180,
+        "answer": "Green",
+        "isCorrect": false
+      },
+      {
+        "id": 181,
+        "answer": "Brown",
+        "isCorrect": false
+      },
+      {
+        "id": 182,
+        "answer": "Blue",
+        "isCorrect": true
+      },
+      {
+        "id": 183,
+        "answer": "Orange",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "7. We know that eyelids are very important for the protection of our eyes. Do you know how many eyelids cats have on each eye (not in total)?",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "Cats have three eyelids. Two eyelids are for protecting their eyes from outside while the third eyelid is at the inner corner of the cat\u0027s eye. It not only helps to protect the eye but also helps in spreading tears. Those eyelids are usually hidden but can be seen when the cat is sleeping.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 192,
+        "answer": "3",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "8. A domestic cat can run faster (over a short distance) than the fastest human being on Earth.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Yes, it\u0027s true. Over a short distance, a normal house cat can run faster than the fastest man on Earth. The fastest man on Earth can run up to 45kmph while a house cat can run up to 48kmph. Cats can accelerate so quickly because of their light and flexible body. But due to their larger size, humans will eventually win over a longer distance run.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 184,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 185,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "9. Most of the time, a cat will land on his feet when it falls from a height.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "When they fall, cats\u0027 bodies reflexively correct their course so that by the time they reach the ground, their feet are in position to hit first. The height of a cat\u0027s fall determines how well or how poorly their legs can absorb the shock of landing.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 186,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 187,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "10. How much of its life has a fifteen year old domestic cat slept through?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Cats love to sleep. A normal cat sleeps from 12 to 16 hours a day. This time accounts to around 50% to 60% of a day. So if a cat lives 15 years then it has slept around 8-10 years.",
+    "itemId": 26,
+    "answers": [
+      {
+        "id": 188,
+        "answer": "6-8 years",
+        "isCorrect": false
+      },
+      {
+        "id": 189,
+        "answer": "8-10 years",
+        "isCorrect": true
+      },
+      {
+        "id": 190,
+        "answer": "11-13 years",
+        "isCorrect": false
+      },
+      {
+        "id": 191,
+        "answer": "4-6 years",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "1. A beautiful, white, long-haired cat attained stardom as the pampered lap cat of Ernst Blofield in the James Bond thrillers \"You Only Live Twice\" (1967) and \"Diamonds Are Forever\" (1971). What is the name of this particular feline felon?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "This cat even purred with malicious intensity. Donald Pleasence played the evil, bald, but cat-loving Blofield. I wonder where Austin Powers got his idea for a villain?",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 193,
+        "answer": "Solomon",
+        "isCorrect": true
+      },
+      {
+        "id": 194,
+        "answer": "Aristotle",
+        "isCorrect": false
+      },
+      {
+        "id": 195,
+        "answer": "Plato",
+        "isCorrect": false
+      },
+      {
+        "id": 196,
+        "answer": "Socrates",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "2. Many U.S. presidents have shared the White House with cats of distinction and an interest in politics. Gerald Ford was owned by an aristocratic Siamese. What was this cat named?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Cool Calvin Coolidge brought three cats (Blackie, Tiger, and Timmie) to the White House. Shannon, Prism and Winston are my cats. They expressed a desire to be in this quiz.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 197,
+        "answer": "Shan",
+        "isCorrect": true
+      },
+      {
+        "id": 198,
+        "answer": "Prism",
+        "isCorrect": false
+      },
+      {
+        "id": 199,
+        "answer": "Shannon",
+        "isCorrect": false
+      },
+      {
+        "id": 200,
+        "answer": "Winston",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "3. John F. Kennedy was also blessed with the friendship of a family cat. Which of these was JFK\u0027s cat?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Tom Kitten was officially Caroline\u0027s cat, and got his name from Beatrix Potter\u0027s cat-centered children\u0027s book \"The Tale of Tom Kitten\".",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 201,
+        "answer": "Kitten Mitten",
+        "isCorrect": false
+      },
+      {
+        "id": 202,
+        "answer": "Honey Fitz",
+        "isCorrect": false
+      },
+      {
+        "id": 203,
+        "answer": "Tom Kitten",
+        "isCorrect": true
+      },
+      {
+        "id": 204,
+        "answer": "Jackie",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "4. This cat headed a gang of tough street cats in his own cartoon show on ABC in 1961. He wore a vest, a hat (with holes for his ears), carried a cane and walked upright. What was the name of this dapper cat-about-town?",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "The members of TC\u0027s comic street gang were Choo Choo, Spook, the Brain, Fancy Fancy, Benny the Ball, Goldie and Pierre. The series lasted for 28 episodes and it did have a nifty theme song.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 225,
+        "answer": "Top Cat",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "5. In 1955, Cary Grant starred as Alfred Hitchcock\u0027s master jewel thief in \"To Catch a Thief\". This charming, drop-dead gorgeous man was rightly nicknamed \"the Cat\". What was the human name of this \"cat\"?",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "\"To Catch a Thief\" was filmed on the French Riviera and won an Oscar for Color Cinematography. Grace Kelly first met Prince Rainier, her future husband, during a photo shoot at the Cannes Film Festival. Strange how things turn out.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 226,
+        "answer": "John Robie",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "6. We all know of Socks, the Clintons\u0027 handsome black and white family cat. What is the term often used in America to describe a black and white cat?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "A van cat is white; a tabby is striped and jellicle cats are from the musical show \"Cats\". As an added note, Bill and Hillary were both allergic to cats.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 205,
+        "answer": "Tuxedo",
+        "isCorrect": true
+      },
+      {
+        "id": 206,
+        "answer": "Tabby",
+        "isCorrect": false
+      },
+      {
+        "id": 207,
+        "answer": "Van",
+        "isCorrect": false
+      },
+      {
+        "id": 208,
+        "answer": "Jellicle",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "7. What cat is humiliated regularly in his constant attempts to make a meal of a little yellow canary named Tweety?",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "Sylvester was created by animator Fritz Freleng and made his cartoon debut in 1945. Sylvester has many other abusers beside Tweety. There\u0027s Hippity Hop (a baby kangaroo Sylvester thought was a giant mouse), Wellington the bulldog, Mike the bulldog, Speedy Gonzalez and Sam the cat. Sufferin\u0027 Succotash!",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 227,
+        "answer": "Sylvester",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "8. Name the orange, lasagna-loving, lazy, fat cat of cartoon fame, owned by Jon and \"friend\" of Odie.",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "Garfield\u0027s distinctive voice was given to him in 1982 by Lorenzo Music. Garfield weighs 15 pounds and he is fond of saying \"big, fat, hairy deal\".",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 228,
+        "answer": "Garfield",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "9. In 1978, Disney studios produced a film entitled \"The Cat from Outer Space\". What was the name of this alien feline spaceship commander?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Jake\u0027s space craft has engine trouble so he lands on Earth and gets a friendly physicist to help him make repairs. Jake, like all cats, has super powers.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 209,
+        "answer": "Jaxx",
+        "isCorrect": false
+      },
+      {
+        "id": 210,
+        "answer": "Jason",
+        "isCorrect": false
+      },
+      {
+        "id": 211,
+        "answer": "Jake",
+        "isCorrect": true
+      },
+      {
+        "id": 212,
+        "answer": "Jack",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "10. Albert Schweitzer shared his quarters with a cat while working as a healer and missionary in Africa. What name did he give this noble cat?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Schweitzer, though left-handed, frequently wrote prescriptions with his right hand to avoid disturbing Sizi, who liked to sleep curled up in his left arm. Here\u0027s a cat quote from Albert, \"There are two means of refuge from the misery of life: music and cats\".",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 213,
+        "answer": "Cinta",
+        "isCorrect": false
+      },
+      {
+        "id": 214,
+        "answer": "Ooma",
+        "isCorrect": false
+      },
+      {
+        "id": 215,
+        "answer": "Sizi",
+        "isCorrect": true
+      },
+      {
+        "id": 216,
+        "answer": "Tsetse",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "11. Of course, a black magical cat serves as companion to Sabrina, the teenage witch. What name does this cat answer to?",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "Cats often served as familiars for witches. Harry Potter has an owl, but then, he\u0027s still quite young.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 229,
+        "answer": "Salem",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "12. This talented cat won two Patsy Awards (Picture Animal Top Star Award) for the movies \"Rhubarb\" in 1952 and \"Breakfast at Tiffany\u0027s\" in 1966. What is this cat\u0027s colorful name?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Orangey co-starred with Jackie Gleason in \"Gigot\" and appeared regularly with Eve Arden on her TV show \"Our Miss Brooks\". A movie director once referred to Orangey as \"the world\u0027s meanest cat\". I say it was just artistic temperament.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 217,
+        "answer": "Katsup",
+        "isCorrect": false
+      },
+      {
+        "id": 218,
+        "answer": "Pumpkin",
+        "isCorrect": false
+      },
+      {
+        "id": 219,
+        "answer": "Orangey",
+        "isCorrect": true
+      },
+      {
+        "id": 220,
+        "answer": "Big Red",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "13. This magnificent siamese lent the magic of his dazzling eyes, handsome face and unique personality to the already formidable magic of Kim Novak in \"Bell, Book and Candle\". What was his name?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "A witch doesn\u0027t have to have a cat for a familiar. According to individual taste, dogs, goats, sheep, pigs, frogs, toads, birds and rabbits have been familiars. There seems to be no limit to the options.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 221,
+        "answer": "Pyewacket",
+        "isCorrect": true
+      },
+      {
+        "id": 222,
+        "answer": "Selene",
+        "isCorrect": false
+      },
+      {
+        "id": 223,
+        "answer": "Jamara",
+        "isCorrect": false
+      },
+      {
+        "id": 224,
+        "answer": "Hecate",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "14. In \"Romeo and Juliet\", Mercutio addresses another character as \"Good King of Cats\". To whom is this lofty title given?",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "Mercutio also indicates he desires nothing but one of Tybalt\u0027s nine lives. In 1990, a movie version of \"Romeo and Juliet\" was filmed using over 100 cats as cast members. The only human in this film was John Hurt playing an old Venetian bag lady. The mind boggles.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 230,
+        "answer": "Tybalt",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "15. A cat figure called Maneki-neko is used as a symbol of luck and good fortune. He has a raised left paw and most often is depicted as being white with red, black and gold markings. From which country does Maneki-neko hail?",
+    "isMultipleChoiceQuestion": false,
+    "explanation": "The raised paw represents the traditional way that Japanese greet people and Maneki-neko (sometimes spelled without the hyphen can be spotted greeting customers entering Japanese stores throughout the world.",
+    "itemId": 27,
+    "answers": [
+      {
+        "id": 231,
+        "answer": "Japan",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "1. In America, which cat breed is the most popular (in pet ownership)?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The top ten most popular cat breeds are the Persian, the Maine coon, the exotic, the Siamese, the Abyssinian, the ragdoll, the Birman, the American shorthair, the Oriental and the sphynx.\n\nThere are an estimated 90 million pet cats in America.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 232,
+        "answer": "Persian",
+        "isCorrect": true
+      },
+      {
+        "id": 233,
+        "answer": "Maine coon",
+        "isCorrect": false
+      },
+      {
+        "id": 234,
+        "answer": "Sphynx",
+        "isCorrect": false
+      },
+      {
+        "id": 235,
+        "answer": "Siamese",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "2. Many people suffer from an irrational fear of cats. What is this phobia called?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Ailurophobia, the fear of cats, can result from negative interactions with a cat or from being bitten or scratched.\n\nIn most cases, people who suffer from animal phobias are perfectly normal until they come into physical contact with the animals that frighten them. In some cases, just seeing a simple photograph of that particular animal can be enough to trigger a fearful response.\n\nCynophobia is the fear of dogs. Entomophobia is the fear of insects. Ichthyophobia is the fear of fish.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 236,
+        "answer": "Cynophobia",
+        "isCorrect": false
+      },
+      {
+        "id": 237,
+        "answer": "Ichthyophobia",
+        "isCorrect": false
+      },
+      {
+        "id": 238,
+        "answer": "Ailurophobia",
+        "isCorrect": true
+      },
+      {
+        "id": 239,
+        "answer": "Entomophobia",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "3. For approximately how many years have people been keeping cats as pets?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Some of the first people to keep cats as pets were the Ancient Egyptians.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 240,
+        "answer": "5600",
+        "isCorrect": false
+      },
+      {
+        "id": 241,
+        "answer": "3800",
+        "isCorrect": false
+      },
+      {
+        "id": 242,
+        "answer": "7400",
+        "isCorrect": false
+      },
+      {
+        "id": 243,
+        "answer": "9500",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "4. In many parts of America and Europe, it\u0027s considered bad luck to see what colour cat?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "In western history, black cats are sometimes seen as being symbols of evil and are often associated with witches. However, seeing a black cat in Britain or Australia is considered to be lucky.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 244,
+        "answer": "black",
+        "isCorrect": true
+      },
+      {
+        "id": 245,
+        "answer": "cream",
+        "isCorrect": false
+      },
+      {
+        "id": 246,
+        "answer": "white",
+        "isCorrect": false
+      },
+      {
+        "id": 247,
+        "answer": "silver",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "5. When did the first cats appear on earth?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The most famous prehistoric cats were the sabre-Tooths, some of which had massive canine teeth measuring up to 30cm long.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 248,
+        "answer": "19 million years",
+        "isCorrect": false
+      },
+      {
+        "id": 249,
+        "answer": "36 million years",
+        "isCorrect": false
+      },
+      {
+        "id": 250,
+        "answer": "27 million years",
+        "isCorrect": false
+      },
+      {
+        "id": 251,
+        "answer": "42 million years",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "6. In which European country did people once use cats to deliver the mail?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "In Belgium during the 1800s, people used cats to deliver the mail.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 252,
+        "answer": "Poland",
+        "isCorrect": false
+      },
+      {
+        "id": 253,
+        "answer": "France",
+        "isCorrect": false
+      },
+      {
+        "id": 254,
+        "answer": "Belgium",
+        "isCorrect": true
+      },
+      {
+        "id": 255,
+        "answer": "Germany",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "7. Cats only meow at humans.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "When it comes to communicating with other cats, the most commonly heard sounds are purrs and hissing.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 256,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 257,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "8. Approximately how many hours a day do cats usually spend sleeping?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Cats spend roughly 70% of their lives sleeping.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 258,
+        "answer": "4-5",
+        "isCorrect": false
+      },
+      {
+        "id": 259,
+        "answer": "3-4",
+        "isCorrect": false
+      },
+      {
+        "id": 260,
+        "answer": "over 22",
+        "isCorrect": false
+      },
+      {
+        "id": 261,
+        "answer": "12-18",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "9. Cats have excellent hearing.",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Humans can hear sounds that range between the frequencies of 31 Hz and 18kHz while dogs can hear sounds ranging between the frequencies of 67 Hz and 44kHz.\n\nCats can hear sounds ranging between the frequencies of 55Hz and 79kHz.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 262,
+        "answer": "True",
+        "isCorrect": true
+      },
+      {
+        "id": 263,
+        "answer": "False",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "10. A cat\u0027s skeleton is made up of how many bones?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Humans have skeletons made up of 206 bones. A cat\u0027s skeleton contains 230 bones. Unlike humans, cats don\u0027t have collar bones.",
+    "itemId": 28,
+    "answers": [
+      {
+        "id": 264,
+        "answer": "206",
+        "isCorrect": false
+      },
+      {
+        "id": 265,
+        "answer": "222",
+        "isCorrect": false
+      },
+      {
+        "id": 266,
+        "answer": "230",
+        "isCorrect": true
+      },
+      {
+        "id": 267,
+        "answer": "214",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "1. The Scots have a belief that seeing a strange black cat on your porch brings something with it. What is it Blackie brings?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Not all superstitions about black cats bode evil. This bad luck stuff\nis mostly unique to the USA. In England and Asia, black cats are\nusually believed to bestow blessings. You name it; wealth, longevity,\npower, love, health, and cream cheese, all lie within the bounty of\nthe black cat! Well....... maybe not.",
+    "itemId": 29,
+    "answers": [
+      {
+        "id": 268,
+        "answer": "Prosperity",
+        "isCorrect": true
+      },
+      {
+        "id": 269,
+        "answer": "Fertility",
+        "isCorrect": false
+      },
+      {
+        "id": 270,
+        "answer": "Sickness",
+        "isCorrect": false
+      },
+      {
+        "id": 271,
+        "answer": "Impotence",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "2. In England, a black cat in the home bestows a special gift on the women of the house. What do the gals get?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "The actual verse goes: \"Wherever the cat of the house is black, the\nlasses of lovers will have no lack\". The reason for this rhyme has\nsomething to do with the way tomcats will gather around a house\nharboring a female cat in season.",
+    "itemId": 29,
+    "answers": [
+      {
+        "id": 272,
+        "answer": "many male admirers",
+        "isCorrect": true
+      },
+      {
+        "id": 273,
+        "answer": "a wealthy husband",
+        "isCorrect": false
+      },
+      {
+        "id": 274,
+        "answer": "visions of a future husband",
+        "isCorrect": false
+      },
+      {
+        "id": 275,
+        "answer": "easy childbirth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "3. There is a superstition that if you dream of a black cat at Christmas\nsomething bad is in the offing. What?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "However, should you happen to dream of black cats at Christmas, the\nillness may be avoided and the curse removed. Simply bury the tail of\na black cat by your doorstep and all within will be protected from\nsickness. Good to know.",
+    "itemId": 29,
+    "answers": [
+      {
+        "id": 276,
+        "answer": "a visit from your mother-in-law",
+        "isCorrect": false
+      },
+      {
+        "id": 277,
+        "answer": "financial ruin",
+        "isCorrect": false
+      },
+      {
+        "id": 278,
+        "answer": "a serious illness",
+        "isCorrect": true
+      },
+      {
+        "id": 279,
+        "answer": "the death of a loved one",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "4. If a black cat enters your home, what does folklore advise you do to ward off any bad luck?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "It was thought that treating Blackie kindly would get you on good\nterms with his master, the devil and the devil would leave you alone.\nI wonder what God thinks of this accommodation?",
+    "itemId": 29,
+    "answers": [
+      {
+        "id": 280,
+        "answer": "have a child or a virgin remove the cat",
+        "isCorrect": false
+      },
+      {
+        "id": 281,
+        "answer": "treat the cat as a welcome guest",
+        "isCorrect": true
+      },
+      {
+        "id": 282,
+        "answer": "drive the cat out but do not touch it",
+        "isCorrect": false
+      },
+      {
+        "id": 283,
+        "answer": "sing off key until it leaves or joins in",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "5. Edward Topsell, an English naturalist (1572-1625), came up with a rather bizarre cure for eye pain and blindness involving black cats. Which one was the medical breakthrough?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "This is what happens when you let English naturalists and quiz writers\npractice medicine. Though doctors of the times probably would have\nthought all four were cures for something. My resource book for this\nquiz was \"The Quintessential Cat\" by Roberta Altman.",
+    "itemId": 29,
+    "answers": [
+      {
+        "id": 284,
+        "answer": "burn the head of a black cat and sprinkle the ashes into both eyes thrice daily",
+        "isCorrect": true
+      },
+      {
+        "id": 285,
+        "answer": "make a sleep mask from the pelt of a black cat and wear it nightly",
+        "isCorrect": false
+      },
+      {
+        "id": 286,
+        "answer": "mix the blood of a black cat with rum and flour and apply the paste to both eyes",
+        "isCorrect": false
+      },
+      {
+        "id": 287,
+        "answer": "brew and drink a mixture of black cat blood, sea water and ground pearls",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "1. What dog saved the lives of 40 people while working for monks (1800-1810) at a travelers way station at the 8,100 foot high Great Saint Bernard Pass in the Alps?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "In 1810, Barry retired to to Berne, Switzerland. The way station continues to honor their most famous Saint Bernard by making sure that there is always one dog in the kennel named \"Barry\". A statue in honor of Barry may still be viewed in Paris, France, but is inaccurately inscribed, \"He saved the lives of 40 persons. He was killed by the 41st\". A legend had sprung up that Barry was killed in error by the last person he tried to rescue, which is perpetuated by this erroneous inscription. Finally, if you would like to visit Barry himself his remains are on display at Berne\u0027s Natural History Museum.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 288,
+        "answer": "Checkers.",
+        "isCorrect": false
+      },
+      {
+        "id": 289,
+        "answer": "Barry.",
+        "isCorrect": true
+      },
+      {
+        "id": 290,
+        "answer": "Gelert.",
+        "isCorrect": false
+      },
+      {
+        "id": 291,
+        "answer": "Greyfriars Bobby.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "2. Being adopted by Albany, New York postal employees as a puppy Owney (1888-1897) began traveling with mail carriers on their delivery routes, wagons, railways, and eventually even went on a 113 day world tour sponsored by the USPS. Due to having traveled an estimated 114,000 miles with post office personnel it\u0027s not surprising that Owney is recognized as the mascot for what organization?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Postal workers used to award Owney tags and/or medals when he visited, which resulted in John Wannamaker, Postmaster General, having a harness custom made to display them on. Of course, over time even the harness could not accommodate the hundreds of medals Owney had acquired.\n\nUpon Owney\u0027s death postal employees raised money to have his remains preserved for posterity. Those wishing to remember Owney may find him today wearing his harness and medals at the National Postal Museum in Washington, D. C.\n\n\nTREAT YOURSELF TO A FILM \"The Story of Owney\" AT THE SMITHSONIAN LINK BELOW:\n\nhttp://www.postalmuseum.si.edu/exhibits/2c1f_owney_movie.html",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 292,
+        "answer": "New York Transit Authority.",
+        "isCorrect": false
+      },
+      {
+        "id": 293,
+        "answer": "United States Postal Service.",
+        "isCorrect": true
+      },
+      {
+        "id": 294,
+        "answer": "Society for the Prevention of Cruelty to Animals.",
+        "isCorrect": false
+      },
+      {
+        "id": 295,
+        "answer": "Travelers Insurance.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "3. During World War I, an American Pit Bull Terrier named \"Stubby\" of the 102nd Infantry Division was awarded the rank of sergeant for which of the following acts of valor?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Stubby captured a German forward observer by flushing him out, chasing him down, and clamping his jaws on the soldier\u0027s buttocks until he was taken into custody by members of the 102nd Infantry Division.\n\nStubby performed all of the actions listed in the answer choices, but received his rank of sergeant specifically for the capture of the German forward observer.\n\nSgt. Stubby returned a hero to the U.S. with his companion Pvt. John Robert Conroy of the 102nd Infantry Division. Sgt. Stubby met President Roosevelt, was inducted into the American Legion, and was awarded a Humane Society medal from the leader of the American Expeditionary Forces, Gen. Joseph \"Black Jack\" Pershing.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 296,
+        "answer": "Participating in more than a dozen battles.",
+        "isCorrect": false
+      },
+      {
+        "id": 297,
+        "answer": "Capturing a German forward observer.",
+        "isCorrect": true
+      },
+      {
+        "id": 298,
+        "answer": "Sniffing out wounded troops and leading them to safety and/or summoning help.",
+        "isCorrect": false
+      },
+      {
+        "id": 299,
+        "answer": "Warning soldiers of poison gas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "4. In 1925, which Siberian Husky traveled through -70 degree temperatures, near whiteout conditions, and gale force winds for 91 miles to relay serum for use in combating a diptheria epidemic in Nome, Alaska?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Togo traveled with his team led by Edward Seppala 170 miles across Alaska just to pick up the serum and then made the 91 mile run to hand off the serum to the next musher in the relay. Although Balto is more readily remembered due to the fact he and his team under Gunnar Kaasen actually delivered the serum they had only traveled 53 miles in comparison to the total of 261 miles traveled by Seppala\u0027s team.\n\nOn a previous trip across Norton Sound Seppala and his team were marooned on an ice floe. Nearing land (but not close enough to gain purchase) Seppala picked up Togo wearing his harness and braces and threw him across the gap to land. Togo began to pull with the goal of bringing the ice floe close enough to land for Seppala and the team to cross. The lead snapped, which Seppala said denoted a death sentence. Togo taking the initiative jumped into the icy water and returned to land with the lead in his mouth. After rolling around to wrap the lead around himself Togo pulled the ice floe to land thereby saving Seppala and his team.*\n\n\n* An additional reference to the overall reference at the end of the quiz:\n\nSalisbury, Gay \u0026 Salisbury Laney (2003). The Cruelest Miles. W. W. Norton \u0026 Company, Inc., New York, NY.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 300,
+        "answer": "Alaska Slim.",
+        "isCorrect": false
+      },
+      {
+        "id": 301,
+        "answer": "Togo.",
+        "isCorrect": true
+      },
+      {
+        "id": 302,
+        "answer": "Balto.",
+        "isCorrect": false
+      },
+      {
+        "id": 303,
+        "answer": "Moctoc.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "5. Jim (1925-1937), a Llewelyn setter, was dubbed the \"Wonder Dog\" by his hometown of Marshall, Missouri for being able perform which of the following tasks?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Jim\u0027s extraordinary abilities were exhibited before a joint session of Missouri legislators and a panel of professors at the University of Missouri. As reported by the Rural Missouri magazine the professors were so impressed that they told the crowd that, \"Jim possessed an occult power that might never come again to a dog in many generations\".\n\nToday visitors to Marshall, Missouri that wish to remember Jim can visit his grave at Ridge Park Cemetery or the Wonder Dog Memorial Park located downtown.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 304,
+        "answer": "All of the answers are correct.",
+        "isCorrect": true
+      },
+      {
+        "id": 305,
+        "answer": "Identify people by being told their physical characteristics.",
+        "isCorrect": false
+      },
+      {
+        "id": 306,
+        "answer": "Identify cars by being told the plate number.",
+        "isCorrect": false
+      },
+      {
+        "id": 307,
+        "answer": "Read messages.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "6. At Tokyo\u0027s Shibuya train station a statue honors an Akita dog, Hachiko, that visited the train station every day at 3 o\u0027clock for around ten years (1925-1935) in anticipation of what event?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Eisaburo Ueno was the professor that Hachiko so loved that he accompanied him to the train station every morning to see him off to work at the University of Tokyo\u0027s Agricultural Department. Conversely, Hachiko eagerly awaited his master\u0027s return in the afternoon and must have known that when Ueno didn\u0027t return it was because something was keeping him from returning. As word of Hachiko\u0027s love and devotion spread across Japan he became a national icon immortalized in the media, books, and a bronze statue of which he was present at the unveiling.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 308,
+        "answer": "Unloading of fresh fish.",
+        "isCorrect": false
+      },
+      {
+        "id": 309,
+        "answer": "Chasing commuters off the platform.",
+        "isCorrect": false
+      },
+      {
+        "id": 310,
+        "answer": "The return of his deceased master.",
+        "isCorrect": true
+      },
+      {
+        "id": 311,
+        "answer": "Howling with the train whistle.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "7. Bamse, a Saint Bernard, served with the Free Norwegian Forces on the ship \"Thorrud\" stationed in Dundee and Montrose, Scotland during World War II and is noted for having performed which of the following deeds?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Bamse was a national hero in Norway during WWII and was featured both on Christmas cards sent to Norweigan soldiers and during the May 17 Constitution Day celebration. When Bamse died of undetermined causes in Montrose, Scotland there was a period of deep mourning with businesses closing for his funeral. During the funeral procession approximately 800 children lined the route to Bamse\u0027s grave near the sea where he was buried facing Norway.\n\nIn 2006, Bamse was honored with a bronze statue erected in Montrose, Scotland. During the same year Bamse was also awarded the prestigious Gold Medal for his wartime service by Britain\u0027s People\u0027s Dispensary for Sick Animals.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 312,
+        "answer": "Spontaneously saved at least one sailor from drowning.",
+        "isCorrect": false
+      },
+      {
+        "id": 313,
+        "answer": "All of the choices are correct.",
+        "isCorrect": true
+      },
+      {
+        "id": 314,
+        "answer": "Shoved a knife wielding assailant off a dock to save a fellow sailor.",
+        "isCorrect": false
+      },
+      {
+        "id": 315,
+        "answer": "Traveled by bus on his own to neighboring towns to track down errant crew members.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "8. Bothie, a Jack Russell Terrier, accompanied Sir Ranulf and Lady Virginia Fiennes on the Transglobe Expedition (1979-1982) to circumnavigate the planet making him the first dog to visit which pole(s)?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "During the Transglobe Expedition Bothie was tethered by harness to the ship deck during rough weather and embarassingly enough had to suit up in custom made caps, booties, and stockings in cold weather environments. However, he became a celebrity and was awarded the Great Britain\u0027s Pet of the Year Award (1982). Also, Bothie met the love of his life in the Yukon a huge Newfoundland-Husky-Labrador mix named \"Black Dog\". The happy couple subsequently set up house (living without benefit of matrimony) in Great Britain.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 316,
+        "answer": "North and South Poles.",
+        "isCorrect": true
+      },
+      {
+        "id": 317,
+        "answer": "South Pole.",
+        "isCorrect": false
+      },
+      {
+        "id": 318,
+        "answer": "North Pole.",
+        "isCorrect": false
+      },
+      {
+        "id": 319,
+        "answer": "None of the choices are correct.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "9. On September 11, 2001, a four year old Labrador retriever named \"Dorado\" insisted on spending one hour guiding his blind master down 70 floors of the north tower of what building?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Dorado\u0027s companion, Omar Eduardo Rivera, was working at the World Trade Center as a computer technician on 9/11 when the north tower was hit by a highjacked airline. Amid the panic and smoke Omar unleashed Dorado, so that at least one of them would have the chance of escaping the building. Dorado left for a few minutes and then came back to Omar and nudged him toward an exit. By chance Omar\u0027s boss was passing as they emerged, so between the efforts of Dorado and the boss they were all three able to make it out of the building and were a few blocks away before the building collapsed.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 320,
+        "answer": "Bank of America Tower.",
+        "isCorrect": false
+      },
+      {
+        "id": 321,
+        "answer": "Flatiron Building.",
+        "isCorrect": false
+      },
+      {
+        "id": 322,
+        "answer": "Empire State Building.",
+        "isCorrect": false
+      },
+      {
+        "id": 323,
+        "answer": "World Trade Center",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "10. On February 6, 2006, a Beagle named \"Belle\" was unsuccessful in making her master understand that his blood sugar level was dangerously low. When Kevin Weaver inevitably collapsed due to low blood sugar what did Belle do to save his life?",
+    "isMultipleChoiceQuestion": true,
+    "explanation": "Belle received 9 months of medical assistant training that cost $9000.00. One of the things she was trained to do if Kevin became totally incapacitated was to punch the number \"9\" on the telephone. This action resulted in the automatic dialing of 911 for medical assistance. Subsequently, when emergency hit Belle had to find Kevin\u0027s mobile telephone, bite the \"9\", wait for contact with the operator, which once established she began barking nonstop in a hysterical fashion until the ambulance arrived. After his recovery Kevin Weaver told the Associated Press, \"Belle is more than a lifesaver, she\u0027s my best friend\". Truer words were never spoken.\n\n\nReference Applying to Entire Quiz:\n\nStall, Sam (2007). 100 Dogs who Changed Civilization: History\u0027s Most Influential Canines. Quirk Productions, Inc., Philadelphia, PA.",
+    "itemId": 30,
+    "answers": [
+      {
+        "id": 324,
+        "answer": "Barked until a human being arrived to render assistance.",
+        "isCorrect": false
+      },
+      {
+        "id": 325,
+        "answer": "Administered an insulin shot.",
+        "isCorrect": false
+      },
+      {
+        "id": 326,
+        "answer": "Called 911.",
+        "isCorrect": true
+      },
+      {
+        "id": 327,
+        "answer": "Administered hard candies orally.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

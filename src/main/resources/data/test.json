@@ -1,0 +1,231 @@
+[
+  {
+    "id": 1,
+    "question": "1. The colors of cat fur are diverse and varied; however, there are usually considered to be about six basic coat colors. Which one of the following is not considered a fur color?",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 1,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 2,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 3,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 4,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "2. Which one of the following is not a reason why cats shed their fur?",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 5,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 6,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 7,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 8,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "3. Most cats with orange fur are female.",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 9,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 10,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "4. The length of a cat\u0027s fur varies from breed to breed. Which one of the following cat breeds has long fur?",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 11,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 12,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 13,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 14,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "5. Fur loss can be caused by a variety of different conditions; however, which one of the following is the most common cause?",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 15,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 16,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 17,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 18,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "6. Whiskers, a specialized type of cat fur, are used to help the cat feel and sense the things around it. Whiskers are found on several places on the cat\u0027s body; however, which one of the following places do whiskers not grow?",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 19,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 20,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 21,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 22,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "7. Most people who describe themselves as allergic to cats are allergic to the cat\u0027s fur.",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 23,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 24,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "8. A problem that plagues many cats (and cat owners!) is hairballs, caused when a cat swallows too much fur when grooming itself. Which one of the following is *not* a way to prevent hairballs?",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 25,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 26,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 27,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 28,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "9. Cat fur comes in a variety of different patterns. Which one of the following is the most common coat pattern in cats?",
+    "isMultipleChoiceQuestion": true,
+    "answers": [
+      {
+        "id": 29,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 30,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 31,
+        "answer": "",
+        "isCorrect": false
+      },
+      {
+        "id": 32,
+        "answer": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "10. Blue-eyed cats with which fur of which color are known for being deaf?",
+    "isMultipleChoiceQuestion": false,
+    "answers": []
+  }
+]
