@@ -44,8 +44,22 @@ public class Crawl {
 
         // get into url from item
         driver.get(url);
-        // get into quiz
-        driver.get(driver.findElement(By.xpath("/html/body/div[5]/div/div[2]/b[2]/a")).getAttribute("href"));
+
+        // check url consist "Take Trivia Quiz: Single Page"
+        List<WebElement> elementListForChecking = driver.findElements(By.xpath("/html/body/div[5]/div/div[2]/b/a"));
+        boolean existElement = false;
+        for (WebElement element : elementListForChecking){
+            if (element.getText().equals("Take Trivia Quiz: Single Page")){
+                // get inside if it exists
+                existElement = true;
+                driver.get(element.getAttribute("href"));
+                break;
+            }
+        }
+
+        if (!existElement){
+            return null;
+        }
 
         // get total question
         final int TOTAL_QUESTION = driver.findElements(By.xpath("/html/body/form/div")).size() - 1;
@@ -160,7 +174,7 @@ public class Crawl {
             // set itemId for question
             questions.get(i).setItemId(itemId);
         }
-        
+
         return questions;
     }
 

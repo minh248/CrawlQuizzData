@@ -18,8 +18,8 @@ public class GetQuestion {
         List<Question> questionList = new ArrayList<>();
 
         // set max request in each item
-        // 1 request take at least 12.5 second so 100 request take about 3h30
-        final int MAX_REQUEST = 100;
+        // 1 request take about 12.5 seconds
+        final int MAX_REQUEST = 20;
         final int START_REQUEST_INDEX = 0;
 
         // get item list
@@ -28,7 +28,10 @@ public class GetQuestion {
 
         // crawl loop
         for (int i = START_REQUEST_INDEX; i < START_REQUEST_INDEX + MAX_REQUEST; i++) {
-            questionList.addAll(crawl.questionsFrom(itemList[i].getUrl(), itemList[i].getId()));
+            List<Question> questionListTemporary = crawl.questionsFrom(itemList[i].getUrl(), itemList[i].getId());
+            if(questionListTemporary != null){
+                questionList.addAll(questionListTemporary);
+            }
         }
 
         // convert to json
