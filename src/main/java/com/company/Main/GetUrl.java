@@ -37,7 +37,7 @@ public class GetUrl {
                     urlList.add(element.getAttribute("href"));
                 }
             } catch (Exception e){
-                System.out.println(e);
+                e.printStackTrace();
                 break;
             }
         }
