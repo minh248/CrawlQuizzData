@@ -5,10 +5,7 @@ import com.company.method.Crawl;
 import com.company.method.FileUltil;
 import com.google.gson.Gson;
 
-import java.time.LocalTime;
 import java.util.ArrayList;
-
-import static com.company.method.Crawl.*;
 
 public class GetItem {
     private static Gson gson = new Gson();
