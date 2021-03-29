@@ -12,7 +12,7 @@ public class Answer {
         this.isCorrect = false;
     }
 
-    public void changeToCorrectAnswer(){
+    public void changeToCorrectAnswer() {
         this.isCorrect = true;
     }
 

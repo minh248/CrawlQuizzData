@@ -21,7 +21,7 @@ public class Crawl {
         this.driver = new ChromeDriver();
     }
 
-    public ArrayList<Item> itemsFrom(String url){
+    public ArrayList<Item> itemsFrom(String url) {
         // create temporary list
         ArrayList<Item> items = new ArrayList<>();
 
@@ -39,7 +39,7 @@ public class Crawl {
         return items;
     }
 
-    public List<Question> questionsFrom(String url, int itemId){
+    public List<Question> questionsFrom(String url, int itemId) {
         List<Question> questions = new ArrayList<>();
 
         // get into url from item
@@ -48,8 +48,8 @@ public class Crawl {
         // check url consist "Take Trivia Quiz: Single Page"
         List<WebElement> elementListForChecking = driver.findElements(By.xpath("/html/body/div[5]/div/div[2]/b/a"));
         boolean existElement = false;
-        for (WebElement element : elementListForChecking){
-            if (element.getText().equals("Take Trivia Quiz: Single Page")){
+        for (WebElement element : elementListForChecking) {
+            if (element.getText().equals("Take Trivia Quiz: Single Page")) {
                 // get inside if it exists
                 existElement = true;
                 driver.get(element.getAttribute("href"));
@@ -57,7 +57,7 @@ public class Crawl {
             }
         }
 
-        if (!existElement){
+        if (!existElement) {
             return null;
         }
 
@@ -74,7 +74,7 @@ public class Crawl {
             boolean isMultipleChoiceQuestion;
 
             // set questionId
-            String questionId = "question" + (i+1);
+            String questionId = "question" + (i + 1);
 
             // get question element
             WebElement questionElement = driver.findElement(By.xpath("//*[@id='" + questionId + "']"));
@@ -89,7 +89,7 @@ public class Crawl {
 
                 // crawl
                 // crawl answer and add into answersTem
-                List<WebElement> answersElement =  questionElement.findElements(By.xpath("div/div[1]/div[2]/div"));
+                List<WebElement> answersElement = questionElement.findElements(By.xpath("div/div[1]/div[2]/div"));
                 for (WebElement element : answersElement) {
                     answersTem.add(new Answer(element.getText()));
                 }
@@ -119,7 +119,8 @@ public class Crawl {
 
         for (int i = 0; i < TOTAL_QUESTION; i++) {
             // initialize ansersTem, isCorrect, correctAnswer, explanation
-            List<Answer> answersTem = questions.get(i).getAnswers();;
+            List<Answer> answersTem = questions.get(i).getAnswers();
+            ;
             boolean isCorrect = true;
             String correctAnswer;
             String explanation;
@@ -127,12 +128,12 @@ public class Crawl {
             WebElement resultElementXpath = resultElementXpathList.get(i);
 
             // set isCorrect by result
-            if (resultElementXpath.findElement(By.xpath("div/div/table/tbody/tr[2]/td[2]/font")).getAttribute("color").equals("red")){
+            if (resultElementXpath.findElement(By.xpath("div/div/table/tbody/tr[2]/td[2]/font")).getAttribute("color").equals("red")) {
                 isCorrect = false;
             }
 
             // set correct answer
-            if (isCorrect){
+            if (isCorrect) {
                 correctAnswer = resultElementXpath.findElement(By.xpath("div/div/table/tbody/tr[2]/td[2]/font")).getText();
                 for (Answer answerTem : answersTem) {
                     if (answerTem.getAnswer().equals(correctAnswer)) {
@@ -143,7 +144,7 @@ public class Crawl {
                 correctAnswer = resultElementXpath.findElement(By.xpath("div/div/table/tbody/tr[2]/td[2]/p[1]/font")).getText();
 
                 //this code came from mistake in database of this web
-                if (correctAnswer.equals("f")){
+                if (correctAnswer.equals("f")) {
                     correctAnswer = "false";
                 }
 
@@ -155,7 +156,7 @@ public class Crawl {
             }
 
             // add correct answer in question which isn't multiple choice question
-            if (answersTem.size() == 0){
+            if (answersTem.size() == 0) {
                 Answer answer = new Answer(correctAnswer);
                 answer.changeToCorrectAnswer();
                 answersTem.add(answer);
@@ -166,7 +167,7 @@ public class Crawl {
             try {
                 explanation = resultElementXpath.findElement(By.xpath("div/div/table/tbody/tr[2]/td[2]/p/font[@color='darkblue']")).getText();
                 questions.get(i).setExplanation(explanation);
-            } catch (Exception e){
+            } catch (Exception e) {
                 System.out.println("no explanation here");
                 explanation = "";
             }
@@ -178,7 +179,7 @@ public class Crawl {
         return questions;
     }
 
-    public void closeDriver(){
+    public void closeDriver() {
         this.driver.close();
     }
 }

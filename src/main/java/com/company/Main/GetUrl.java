@@ -33,10 +33,10 @@ public class GetUrl {
 
                 driver.get(currentUrl);
                 List<WebElement> elements = driver.findElements(By.xpath("/html/body/div[5]/div/div/div[2]/div/b/a"));
-                for (WebElement element : elements){
+                for (WebElement element : elements) {
                     urlList.add(element.getAttribute("href"));
                 }
-            } catch (Exception e){
+            } catch (Exception e) {
                 e.printStackTrace();
                 break;
             }

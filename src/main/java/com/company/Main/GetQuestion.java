@@ -29,7 +29,7 @@ public class GetQuestion {
         // crawl loop
         for (int i = START_REQUEST_INDEX; i < START_REQUEST_INDEX + MAX_REQUEST; i++) {
             List<Question> questionListTemporary = crawl.questionsFrom(itemList[i].getUrl(), itemList[i].getId());
-            if(questionListTemporary != null){
+            if (questionListTemporary != null) {
                 questionList.addAll(questionListTemporary);
             }
         }
