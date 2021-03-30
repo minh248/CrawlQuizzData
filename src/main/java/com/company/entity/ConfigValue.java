@@ -22,12 +22,17 @@ public class ConfigValue {
             props.load(reader);
 
             // set url
-            this.url = props.getProperty("url");
-            this.driver = props.getProperty("driver");
-            this.driverPath = props.getProperty("driverPath");
+            try {
+                this.url = props.getProperty("url");
+                this.driver = props.getProperty("driver");
+                this.driverPath = props.getProperty("driverPath");
+            } catch (Exception e) {
+                e.printStackTrace();
+            } finally {
+                // close
+                reader.close();
 
-            // close
-            reader.close();
+            }
         } catch (IOException e) {
             System.out.println(e);
         }

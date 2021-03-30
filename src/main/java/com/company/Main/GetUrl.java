@@ -15,7 +15,7 @@ import static com.company.method.FileUltil.writeFile;
 public class GetUrl {
     private static final ConfigValue config = new ConfigValue();
 
-    public static void main(String[] args) {
+    public static void getAll() {
         System.setProperty(config.getDriver(), config.getDriverPath());
         WebDriver driver = new ChromeDriver();
 
