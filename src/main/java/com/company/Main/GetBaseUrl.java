@@ -13,7 +13,7 @@ import java.util.List;
 public class GetBaseUrl {
     private static final ConfigValue config = new ConfigValue();
 
-    public static List<String> getAll() {
+    public static List<String> all() {
         System.setProperty(config.getDriver(), config.getDriverPath());
         WebDriver driver = new ChromeDriver();
 

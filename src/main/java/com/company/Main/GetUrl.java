@@ -14,36 +14,46 @@ import static com.company.method.FileUltil.writeFile;
 
 public class GetUrl {
     private static final ConfigValue config = new ConfigValue();
+    private static final int MAX_REQUEST = 200;
 
-    public static void getAll() {
+    public static void all() {
         System.setProperty(config.getDriver(), config.getDriverPath());
         WebDriver driver = new ChromeDriver();
 
-        // set base url, max url can request
-        String baseUrl = "https://www.funtrivia.com/quizzes/animals/";
-        final int MAX_REQUEST = 200;
 
-        // create list to store url
-        ArrayList<String> urlList = new ArrayList<>();
-        urlList.add(baseUrl);
+        List<String> baseUrlList = GetBaseUrl.all();
+        List<String> urlList = new ArrayList<>();
 
+        // get url from base url
+        for (String baseUrl : baseUrlList) {
+            driver.get(baseUrl);
+            List<WebElement> elements = driver.findElements(By.xpath("/html/body/div[5]/div/div/div[2]/div/b/a"));
+            for (WebElement element : elements) {
+                String newUrl = element.getAttribute("href");
+                if (!urlList.contains(newUrl)){
+                    urlList.add(newUrl);
+                }
+            }
+        }
+
+        // continue crawl inside
         for (int i = 0; i < MAX_REQUEST; i++) {
             try {
-                String currentUrl = urlList.get(i);
+                String url = urlList.get(i);
 
-                driver.get(currentUrl);
+                driver.get(url);
                 List<WebElement> elements = driver.findElements(By.xpath("/html/body/div[5]/div/div/div[2]/div/b/a"));
                 for (WebElement element : elements) {
-                    urlList.add(element.getAttribute("href"));
+                    String newUrl = element.getAttribute("href");
+                    if (!urlList.contains(newUrl)){
+                        urlList.add(newUrl);
+                    }
                 }
             } catch (Exception e) {
                 e.printStackTrace();
                 break;
             }
         }
-
-        // remove base url if there're random questions in base url
-        urlList.remove(baseUrl);
 
         Gson gson = new Gson();
         String urlListJson = gson.toJson(urlList);
