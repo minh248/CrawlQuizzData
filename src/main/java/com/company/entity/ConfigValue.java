@@ -1,15 +1,14 @@
 package com.company.entity;
 
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.Properties;
 
 public class ConfigValue {
     // value
-    private String url;
     private String driver;
     private String driverPath;
+    // save index
+    private int currentUrlId;
 
     // file config
     private Properties properties;
@@ -17,34 +16,40 @@ public class ConfigValue {
 
     public ConfigValue() {
         try {
-            FileReader reader = new FileReader(configFile);
+            InputStream input = new FileInputStream(configFile);
             Properties props = new Properties();
-            props.load(reader);
+            props.load(input);
 
-            // set url
-            try {
-                this.url = props.getProperty("url");
-                this.driver = props.getProperty("driver");
-                this.driverPath = props.getProperty("driverPath");
-            } catch (Exception e) {
-                e.printStackTrace();
-            } finally {
-                // close
-                reader.close();
+            // set value
+            this.driver = props.getProperty("driver");
+            this.driverPath = props.getProperty("driverPath");
+            this.currentUrlId = Integer.parseInt(props.getProperty("current.url.id"));
 
-            }
+            // close
+            input.close();
         } catch (IOException e) {
-            System.out.println(e);
+            e.printStackTrace();
         }
-
     }
 
-    public String getUrl() {
-        return url;
-    }
+    public void saveUrlId(int i) {
+        try {
+            InputStream in = new FileInputStream(configFile);
+            Properties props = new Properties();
 
-    public void setUrl(String url) {
-        this.url = url;
+            props.load(in);
+            props.setProperty("current.url.id",String.valueOf(i));
+
+            in.close();
+
+
+            OutputStream out = new FileOutputStream(configFile);
+            props.store(out, null);
+
+            out.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
     }
 
     public String getDriver() {
@@ -61,5 +66,13 @@ public class ConfigValue {
 
     public void setDriverPath(String driverPath) {
         this.driverPath = driverPath;
+    }
+
+    public int getCurrentUrlId() {
+        return currentUrlId;
+    }
+
+    public void setCurrentUrlId(int currentUrlId) {
+        this.currentUrlId = currentUrlId;
     }
 }
