@@ -1,5 +1,6 @@
 package com.company.Main;
 
+import com.company.entity.ConfigValue;
 import com.company.entity.Item;
 import com.company.method.Crawl;
 import com.company.method.FileUltil;
@@ -10,8 +11,9 @@ import java.util.ArrayList;
 public class GetItem {
     private static Gson gson = new Gson();
     private static Crawl crawl = new Crawl();
+    private static final ConfigValue config = new ConfigValue();
 
-    public static void main(String[] args) {
+    public static void all() {
         ArrayList<Item> itemsList = new ArrayList<>();
 
         // get urlList
@@ -19,13 +21,23 @@ public class GetItem {
         String[] urlList = gson.fromJson(urlListJson, String[].class);
 
         // crawl items
-        for (String url : urlList) {
-            // add to itemsList
-            itemsList.addAll(crawl.itemsFrom(url));
+        for (int i = config.getCurrentCrawledUrlId(); i < urlList.length; i++) {
+            try{
+                String url = urlList[i];
+                // add to itemsList
+                itemsList.addAll(crawl.itemsFrom(url));
+            } catch (Exception e){
+                e.printStackTrace();
+                break;
+            } finally {
+                config.saveCurrentCrawledUrlId(i);
+            }
         }
 
-        // save items to json file
+        // convert to json
         String itemsListJson = gson.toJson(itemsList);
+
+        // save json data intoto item.json
         FileUltil.writeFile("src/main/resources/data/item.json", itemsListJson);
 
         // close driver

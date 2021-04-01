@@ -8,9 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
@@ -61,7 +59,7 @@ public class GetUrl {
                 List<WebElement> elements = driver.findElements(By.xpath("/html/body/div[5]/div/div/div[2]/div/b/a"));
                 for (WebElement element : elements) {
                     String newUrl = element.getAttribute("href");
-                    // check exist
+                    // check existing
                     if (urlList.contains(newUrl)){
                         continue;
                     }
@@ -72,7 +70,7 @@ public class GetUrl {
                 break;
             } finally {
                 // save current id
-                config.saveUrlId(i);
+                config.saveCurrentUrlId(i);
             }
         }
 

@@ -1,5 +1,6 @@
 package com.company.Main;
 
+import com.company.entity.ConfigValue;
 import com.company.entity.Item;
 import com.company.entity.Question;
 import com.company.method.Crawl;
@@ -13,24 +14,27 @@ import java.util.List;
 public class GetQuestion {
     private static Gson gson = new Gson();
     private static Crawl crawl = new Crawl();
+    private static final ConfigValue config = new ConfigValue();
 
-    public static void main(String[] args) {
+    public static void all() {
         List<Question> questionList = new ArrayList<>();
-
-        // set max request in each item
-        // 1 request take about 12.5 seconds
-        final int MAX_REQUEST = 20;
-        final int START_REQUEST_INDEX = 0;
 
         // get item list
         String itemJson = FileUltil.readFile("src/main/resources/data/item.json");
         Item[] itemList = gson.fromJson(itemJson, Item[].class);
 
         // crawl loop
-        for (int i = START_REQUEST_INDEX; i < START_REQUEST_INDEX + MAX_REQUEST; i++) {
-            List<Question> questionListTemporary = crawl.questionsFrom(itemList[i].getUrl(), itemList[i].getId());
-            if (questionListTemporary != null) {
-                questionList.addAll(questionListTemporary);
+        for (int i = config.getCurrentCrawledItemId(); i < itemList.length; i++) {
+            try{
+                List<Question> questionListTemporary = crawl.questionsFrom(itemList[i].getUrl(), itemList[i].getId());
+                if (questionListTemporary != null) {
+                    questionList.addAll(questionListTemporary);
+                }
+            } catch (Exception e){
+                e.printStackTrace();
+                break;
+            } finally {
+                config.saveCurrentCrawledItemId(i);
             }
         }
 
