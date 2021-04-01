@@ -1,8 +1,7 @@
-package com.company.Main;
+package com.company.crawl.get;
 
-import com.company.entity.ConfigValue;
+import com.company.entity.config.ConfigValue;
 import org.openqa.selenium.By;
-import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -34,7 +33,13 @@ public class GetBaseUrl {
             }
         }
 
-        driver.close();
+        try {
+            driver.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            System.out.println("Driver is closed");
+        }
 
         return baseUrlList;
     }

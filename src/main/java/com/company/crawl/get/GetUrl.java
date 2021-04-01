@@ -1,7 +1,7 @@
-package com.company.Main;
+package com.company.crawl.get;
 
-import com.company.entity.ConfigValue;
-import com.company.method.FileUltil;
+import com.company.entity.config.ConfigValue;
+import com.company.ultils.FileUltil;
 import com.google.gson.Gson;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -12,13 +12,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import static com.company.method.FileUltil.writeFile;
+import static com.company.ultils.FileUltil.writeFile;
 
 public class GetUrl {
     private static final ConfigValue config = new ConfigValue();
-    private static final int MAX_REQUEST = 100000000;
     private static final Gson gson = new Gson();
-    private static final List<String> baseUrlList = GetBaseUrl.all();
 
     public static void all() {
         System.setProperty(config.getDriver(), config.getDriverPath());
@@ -33,16 +31,21 @@ public class GetUrl {
         // check previous data
         if (urlListJson == null || urlListJson.equals("[]")) {
             // get url from base url
-            for (String baseUrl : baseUrlList) {
-                driver.get(baseUrl);
-                List<WebElement> elements = driver.findElements(By.xpath("/html/body/div[5]/div/div/div[2]/div/b/a"));
-                for (WebElement element : elements) {
-                    String newUrl = element.getAttribute("href");
-                    // check exist
-                    if (!urlList.contains(newUrl)){
-                        urlList.add(newUrl);
+            List<String> baseUrlList = GetBaseUrl.all();;
+            try {
+                for (String baseUrl : baseUrlList) {
+                    driver.get(baseUrl);
+                    List<WebElement> elements = driver.findElements(By.xpath("/html/body/div[5]/div/div/div[2]/div/b/a"));
+                    for (WebElement element : elements) {
+                        String newUrl = element.getAttribute("href");
+                        // check exist
+                        if (!urlList.contains(newUrl)){
+                            urlList.add(newUrl);
+                        }
                     }
                 }
+            } catch (Exception e){
+                e.printStackTrace();
             }
         }
         else {
@@ -51,7 +54,7 @@ public class GetUrl {
         }
 
         // continue crawl inside
-        for (int i = config.getCurrentUrlId(); i < MAX_REQUEST; i++) {
+        for (int i = config.getCurrentUrlId(); i < urlList.size(); i++) {
             try {
                 String url = urlList.get(i);
 
@@ -80,6 +83,14 @@ public class GetUrl {
         writeFile("src/main/resources/data/url.json", urlListJson);
 
         // close drive
-        driver.close();
+        try {
+            driver.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            System.out.println("Driver is closed");
+        }
+
+        System.out.println("Rerun to continue crawl from the previous data \n");
     }
 }

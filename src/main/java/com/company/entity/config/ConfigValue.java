@@ -1,4 +1,4 @@
-package com.company.entity;
+package com.company.entity.config;
 
 import java.io.*;
 import java.util.Properties;

@@ -1,7 +1,7 @@
-package com.company.method;
+package com.company.crawl;
 
 import com.company.entity.Answer;
-import com.company.entity.ConfigValue;
+import com.company.entity.config.ConfigValue;
 import com.company.entity.Item;
 import com.company.entity.Question;
 import org.openqa.selenium.By;
@@ -180,6 +180,12 @@ public class Crawl {
     }
 
     public void closeDriver() {
-        this.driver.close();
+        try {
+            driver.close();
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            System.out.println("Driver is closed");
+        }
     }
 }

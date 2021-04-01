@@ -1,9 +1,9 @@
-package com.company.Main;
+package com.company.crawl.get;
 
-import com.company.entity.ConfigValue;
+import com.company.entity.config.ConfigValue;
 import com.company.entity.Item;
-import com.company.method.Crawl;
-import com.company.method.FileUltil;
+import com.company.crawl.Crawl;
+import com.company.ultils.FileUltil;
 import com.google.gson.Gson;
 
 import java.util.ArrayList;
@@ -37,10 +37,12 @@ public class GetItem {
         // convert to json
         String itemsListJson = gson.toJson(itemsList);
 
-        // save json data intoto item.json
+        // save json data into item.json
         FileUltil.writeFile("src/main/resources/data/item.json", itemsListJson);
 
         // close driver
         crawl.closeDriver();
+
+        System.out.println("Rerun to continue crawl from the previous data \n");
     }
 }
