@@ -42,10 +42,9 @@ public class FileUltil {
             while (reader.hasNextLine()) {
                 String data = reader.nextLine();
                 if (x != 0) {
-                    x++;
                     content += ("\n" + data);
                 } else {
-                    x++;
+                    x = 1;
                     content += data;
                 }
             }
